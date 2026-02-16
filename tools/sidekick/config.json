@@ -1,8 +1,7 @@
 {
   "project": "Frescopa",
   "editUrlLabel": "AEM Editor",
-  "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open",
-  "contentSourceUrl": "https://author-p124869-e1429323.adobeaemcloud.com/editor.html/content/frescopa/en",
+  "editUrlPattern": "https://author-p124869-e1429323.adobeaemcloud.com/editor.html/content/frescopa/en{{pathname}}?cmd=open",
   "plugins": [
     {
       "id": "cif",
